@@ -1,0 +1,1 @@
+handoff #10: review the attached change; acceptance: reply DONE (round 10 of rtt2, context thread rtt2-2026-11-22)
